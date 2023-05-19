@@ -6,13 +6,13 @@
 
 ---
 <a href="https://github.com/chaaug">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=jgt-josegeraldo&show_icons=true">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=chaaug&show_icons=true">
 </a>
 <a href="https://github.com/chaaug">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgt-josegeraldo&layout=compact&langs_count=6">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchaaug&layout=compact&langs_count=6">
 </a>
 <a href="https://github.com/chaaug">
-  <img align="center" height="332rem" src="https://github-readme-streak-stats.herokuapp.com?user=jgt-josegeraldo&theme=omn">
+  <img align="center" height="332rem" src="https://github-readme-streak-stats.herokuapp.com?user=chaaug&theme=omn">
 </a>
 
 <!--
