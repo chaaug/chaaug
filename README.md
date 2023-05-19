@@ -9,7 +9,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=chaaug&show_icons=true">
 </a>
 <a href="https://github.com/chaaug">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchaaug&layout=compact&langs_count=6">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaug&layout=compact&langs_count=6">
 </a>
 <a href="https://github.com/chaaug">
   <img align="center" height="332rem" src="https://github-readme-streak-stats.herokuapp.com?user=chaaug&theme=omn">
