@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Charles.
+
+- 🔭 I’m currently working on [Rubeus](https://rubeus.com.br/)
+- 👯 I’m looking to collaborate on with the people close to me, with the team and the community
+- 💬 Ask me about Linux, Docker, Kubernets, DevOps, MySQL, events and community 
 
 <!--
 **chaaug/chaaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
