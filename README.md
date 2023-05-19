@@ -8,6 +8,10 @@
 <a href="https://github.com/chaaug">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=chaaug&show_icons=true">
 </a>
+<a href="https://github.com/chaaug">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaaug&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</a>
+
 
 <!--
 **chaaug/chaaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
