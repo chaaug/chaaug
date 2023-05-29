@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning about Cloud Providers (AWS, Google Cloud, Azure and Digital Ocean).
 
 ---
-<a href="https://github.com/chaaug">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=chaaug&show_icons=true">
-</a>
 
 
 <!--
