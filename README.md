@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [Rubeus](https://rubeus.com.br/) as a DevOps Analyst;
 - 👯 I’m looking to collaborate on with the people close to me, with the team and the community;
 - 💬 Ask me about Linux, Docker, Kubernets, DevOps, MySQL, events and community;
-- 🌱 I’m currently learning about Cloud Providers (AWS, Google Cloud, Azure and Digital Ocean).
+- 🌱 I’m currently learning about Cloud Providers (AWS, Google Cloud, Azure and Digital Ocean.
 
 ---
 
